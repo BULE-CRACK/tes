@@ -1,4 +1,4 @@
 # NGETES DULU YA ANJENG
 $ git clone https://github.com/BULE-CRACK/tes
 $ cd tes
-$ python tes.py
+$ python kntl.py
